@@ -14,3 +14,7 @@
     }
  }
 
+
+ function giai_phuong_trinh_bac_hai() {
+     // code 
+ }
